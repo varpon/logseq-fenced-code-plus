@@ -6,7 +6,7 @@
     "dev": "parcel serve ./index.html --public-url ./ --no-hmr",
     "build": "parcel build ./index.html --public-url ."
   },
-  "repository": "https://github.com/xyhp915/logseq-fenced-code-plus.git",
+  "repository": "https://github.com/varpon/logseq-fenced-code-plus.git",
   "author": "charlie",
   "license": "MIT",
   "private": false,
@@ -16,7 +16,7 @@
     "id": "_fq3zfw9ik"
   },
   "dependencies": {
-    "@logseq/libs": "0.2.0@next",
+    "@logseq/libs": "^0.3.0",
     "react": "18.2.0"
   },
   "alias": {
